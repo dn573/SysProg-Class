@@ -35,10 +35,13 @@ Please provide answers to these questions using markdown notation and place them
 
 
 3. Please provide a link to the repository you are using for this class.
+
     `https://github.com/dn573/SysProg-Class/tree/main`
 
 4. Briefly describe what you want to get out of this class.
+
     Probably a better understanding of how computers work on a lower level, not going down all the way to the individual bits and gates, but close enough to understand why a computer system operates.
 
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
+
     I remember quizzes from the previous class with Brian Mitchell and how difficult they were, not because of the material, but because of the way the questions were asked. For example, instead of "What does A do?" or "What is going to be the result of X?" we had questions like "There exists a committy of completely random people, they are going to make a decision about something, what are they going to choose?"
